@@ -22,7 +22,7 @@ This sample demonstrates the following features:
 
 # Thumbnail
 
-![thumbnail](/Resources/screenshot.png)
+![thumbnail](Resources/screenshot.PNG)
 
 
 # Demonstration
