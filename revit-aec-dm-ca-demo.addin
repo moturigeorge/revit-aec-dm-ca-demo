@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command revit-aec-dm-ca-demo</Text>
+    <Description>Revit addin to demonstrate the utilization of Assets and Parameters api</Description>
+    <Assembly>revit-aec-dm-ca-demo.dll</Assembly>
+    <FullClassName>revit_aec_dm_ca_demo.Command</FullClassName>
+    <ClientId>e42f9107-8f5b-4e5c-a202-5ff9145e3084</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application revit-aec-dm-ca-demo</Name>
+    <Assembly>revit-aec-dm-ca-demo.dll</Assembly>
+    <FullClassName>revit_aec_dm_ca_demo.App</FullClassName>
+    <ClientId>ac84c4b2-2482-4588-a81f-fb754e1c2a53</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
